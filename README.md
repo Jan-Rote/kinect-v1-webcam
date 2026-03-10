@@ -57,7 +57,7 @@ pip install numpy pyvirtualcam opencv-python
 
 **4. Clone this repo**
 ```bash
-git clone https://github.com/your-username/kinect-v1-webcam.git
+git clone https://github.com/Jan-Rote/kinect-v1-webcam.git
 cd kinect-v1-webcam
 ```
 
